@@ -1,0 +1,6 @@
+En priorité : ajout base pauvereté, commerces
+Unifier code et améliorer en utilisant le fichier fct.py 
+Commenter le code et les graphes obtenus
+Changer la carte des caméras en utilisant folium 
+Changer les cartes d'éclairage en ne prenant que 1% de la base
+Modifier dans la base d'arrondissement la clé en utilisant la fct dans le fichier py
