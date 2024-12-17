@@ -28,6 +28,12 @@ Voici quelques bases intéressantes pour commencer à travailler :
 
    - Cette base pourrait nécessiter un traitement préalable en suivant la méthodologie décrite par l'auteur.
 
+4. **Taux de pauvereté à Paris**  
+   Structure et distribution des revenus, inégalité des niveaux de vie en 2017.  
+   [Lien vers les données](https://www.insee.fr/fr/statistiques/fichier/4291712/indic-struct-distrib-revenu-2017-COMMUNES.zip)  
+
+   - Il s'agit d'un fichier zip contenant un dossier avec plusieurs bases, nous choisirons la plus pertinente. Les données doivent être filtrées.
+
 ---
 
 ### Note
