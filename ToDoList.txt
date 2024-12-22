@@ -1,13 +1,16 @@
-En priorité : ajout base pauvereté, commerces
+En priorité : ajout base pauvereté, commerces (ok pauvereté, logements sociaux)
 Unifier code et améliorer en utilisant le fichier fct.py 
 Commenter le code et les graphes obtenus
 Changer la carte des caméras en utilisant folium (ok RC 21/12)
-Changer les cartes d'éclairage en ne prenant que 1% de la base
-Modifier dans la base d'arrondissement la clé en utilisant la fct dans le fichier py
-Faire tourner la regression
+Changer les cartes d'éclairage en ne prenant que 1% de la base (ok)
+Faire tourner la regression / ACP
+Ajouter colonne INSEE_COG à def_combined 
+Revoir la jointure 
 
 
 
 
 Notes : 
-Les codes postaux de la base exploration vidéoprotections et de cartiflette sont dans la colonne intituée "INSEE_COG", je vous propose que nous gardions cette intitulé pour tous nos dataframe
+Les codes postaux de la base exploration vidéoprotections et de cartiflette sont dans la colonne intituée "INSEE_COG", je vous propose que nous gardions cette intitulé pour tous nos dataframe (ok pour les df pauvereté/ logements sociaux)
+
+Utiliser le fichier des installations pour la base de vidéo protection (pour la propreté du notebook)

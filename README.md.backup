@@ -28,6 +28,23 @@ Voici quelques bases intéressantes pour commencer à travailler :
 
    - Cette base pourrait nécessiter un traitement préalable en suivant la méthodologie décrite par l'auteur.
 
+4. **Taux de pauvereté à Paris**  
+   Structure et distribution des revenus, inégalité des niveaux de vie en 2017.  
+   [Lien vers les données](https://www.insee.fr/fr/statistiques/4291712)  
+
+   - Il s'agit d'un fichier zip contenant un dossier avec plusieurs bases, nous choisirons la plus pertinente. Les données doivent être filtrées.
+   
+5. **Logements sociaux à Paris**  
+   Logements sociaux financés à Paris.  
+   [Lien vers les données](https://opendata.paris.fr/explore/dataset/logements-sociaux-finances-a-paris/table/?disjunctive.bs&disjunctive.mode_real&disjunctive.nature_programme&disjunctive.ville&disjunctive.code_postal&sort=-bs&basemap=jawg.dark&location=12,48.8592,2.3341)  
+   
+6. **Commerces en Ile de France**  
+   Les commerces par commune ou arrondissement (base permanente des équipements).
+   
+   - Cette Base nécessite d'être filtrée pour se limiter aux arrondissements parisiens.   
+   [Lien vers les données](https://opendata.paris.fr/explore/dataset/logements-sociaux-finances-a-paris/table/?disjunctive.bs&disjunctive.mode_real&disjunctive.nature_programme&disjunctive.ville&disjunctive.code_postal&sort=-bs&basemap=jawg.dark&location=12,48.8592,2.3341)  
+
+   
 ---
 
 ### Note
