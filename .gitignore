@@ -1,3 +1,8 @@
 *.html
 *.ipynb_checkpoints
 data/insee
+*dbf
+*shp
+*shx
+*prj
+*qmd
