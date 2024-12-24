@@ -1,4 +1,4 @@
-En priorité : ajout base pauvereté, commerces (ok pauvereté, logements sociaux)
+En priorité : ajout base pauvereté, commerces (ok pauvereté, logements sociaux, commerces)
 Unifier code et améliorer en utilisant le fichier fct.py 
 Commenter le code et les graphes obtenus
 Changer la carte des caméras en utilisant folium (ok RC 21/12)

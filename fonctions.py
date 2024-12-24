@@ -14,7 +14,7 @@ def recuperation_data(url_api):
         current_url = wb["links"].get("next")
     return pd.DataFrame(df)
 
-    def extraire_arrondissement(code_postal):
+def extraire_arrondissement(code_postal):
     try:
         arrondissement = int(code_postal[-2:])  # Récupérer les deux derniers chiffres
         return f"751{arrondissement:02d}"
