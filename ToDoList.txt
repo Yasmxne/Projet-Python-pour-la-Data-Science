@@ -1,12 +1,13 @@
 En priorité : ajout base pauvereté, commerces (ok pauvereté, logements sociaux, commerces)
 Unifier code et améliorer en utilisant le fichier fct.py 
-Commenter le code et les graphes obtenus
+Commenter le code et les graphes obtenus (ok pour le notebook BasePauverete)
 Changer la carte des caméras en utilisant folium (ok RC 21/12)
 Changer les cartes d'éclairage en ne prenant que 1% de la base (ok)
 Faire tourner la regression / ACP
-Ajouter colonne INSEE_COG à def_combined 
+!!!!priorité!!!
+Ajouter la colonne "total_points lumineux" et supprimer geo shape + transformer num_region en code insee avec la fct extraire_arrondissement et réaliser la jointure avec c_arinsee et modifier nomenclature 
 Revoir la jointure 
-
+!!!!!!!!!!!!!!!
 
 
 
