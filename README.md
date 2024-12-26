@@ -1,7 +1,18 @@
 # Projet-Python-pour-la-Data-Science
 
 Ce dépôt rassemble le travail réalisé dans le cadre du cours **Python pour la Data Science**.  
-Le fichier README facilite la compréhension du projet et propose un ensemble de ressources utiles.  
+Le fichier README facilite la compréhension du projet et propose un ensemble de ressources utiles.
+
+## Motivation du projet
+
+Notre projet chercher à apporter des élèments de réponse à deux problématiques socio-économiques souvent évoquées par les médias, car elles jouent un rôle significatif, bien que parfois débattu, dans le sentiment de sécurité ressenti dans l’espace public.
+
+La réduction de l’éclairage urbain la nuit, justifiée par des économies d’énergie, a suscité des inquiétudes quant à la sécurité des citoyens. Certaines communes, comme Orléans, ont décidé de rétablir l’éclairage face à des tensions sociales croissantes ([source : BFMTV, 09/10/2024](https://rmc.bfmtv.com/actualites/societe/orleans-remet-la-lumiere-la-nuit-on-rallume-parce-que-l-etat-nous-a-envoye-600-migrants-et-sdf_AV-202410090526.html)). D’autres témoignages, notamment à Bordeaux, montrent que l’extinction des lumières peut exacerber le sentiment d’insécurité ([source : TF1 Info, 25/12/2024](https://www.tf1info.fr/societe/video-jt-tf1-je-ne-me-sens-pas-en-securite-a-bordeaux-ces-habitants-demandent-le-retour-de-l-eclairage-la-nuit-2334216.html)). Enfin, cette mesure est diversement perçue selon les contextes locaux ([source : FranceInfo, 06/10/2023](https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/economies-d-energie-comment-est-percue-l-extinction-des-lumieres-la-nuit-dans-certaines-communes_5509065.html)).
+
+Par ailleurs, les caméras de vidéosurveillance, bien que largement déployées, suscitent des débats quant à leur efficacité. Si elles sont parfois utiles pour élucider des infractions, leur impact réel sur la criminalité reste controversé ([source : FranceInfo, 19/12/2023](https://www.francetvinfo.fr/replay-radio/le-vrai-du-faux/les-cameras-de-videosurveillance-sont-elles-vraiment-utiles-pour-lutter-contre-le-narcotrafic_6838112.html) et [source : TF1 Info, 14/12/2023](https://www.tf1info.fr/justice-faits-divers/enquete-video-tf1-videosurveillance-les-cameras-sont-elles-vraiment-efficaces-contre-la-delinquance-police-municipale-gendarmerie-2266405.html)). 
+
+Cette analyse croisée cherche ainsi à apporter un éclairage précis sur l’articulation entre ces deux dispositifs et leur impact réel sur la sécurité publique. D’autres facteurs, tels que le niveau de pauvreté ou le caractère commercial des espaces seront également observés afin de mieux comprendre l'efficacité des levier pour améliorer la sécurité dans les zones urbaines.
+
 
 ## Objectif du projet
 
