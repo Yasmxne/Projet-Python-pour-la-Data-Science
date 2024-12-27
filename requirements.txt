@@ -4,4 +4,9 @@ py7zr geopandas openpyxl tqdm s3fs
 PyYAML xlrd
 git+https://github.com/inseefrlab/cartiflette
 pynsee
+git+https://github.com/inseefrlab/cartiflette
+requests
+zipfile
+io
+is
 
