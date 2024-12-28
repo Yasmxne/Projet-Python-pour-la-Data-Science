@@ -19,3 +19,4 @@ Utiliser le fichier des installations pour la base de vidéo protection (pour la
 
 Revoir requirements
 Expliquer dependence entre les notebooks dans le readme
+merge avec le main
