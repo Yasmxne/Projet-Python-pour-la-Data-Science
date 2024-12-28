@@ -15,3 +15,7 @@ Notes :
 Les codes postaux de la base exploration vidéoprotections et de cartiflette sont dans la colonne intituée "INSEE_COG", je vous propose que nous gardions cette intitulé pour tous nos dataframe (ok pour toutes les bases)
 
 Utiliser le fichier des installations pour la base de vidéo protection (pour la propreté du notebook)
+
+
+Revoir requirements
+Expliquer dependence entre les notebooks dans le readme
