@@ -1,7 +1,7 @@
 # Projet-Python-pour-la-Data-Science
 
 Ce dépôt rassemble le travail réalisé dans le cadre du cours **Python pour la Data Science**.  
-Le fichier README facilite la compréhension du projet et propose un ensemble de ressources utiles.
+Le fichier README facilite la compréhension du projet, des dépendances entre les fichiers et propose un ensemble de ressources utiles.
 
 ## Motivation du projet
 
@@ -13,10 +13,40 @@ L'utilisation de **caméras de vidéosurveillance**, qui bien que largement dép
 
 Cette analyse croisée cherche ainsi à apporter un éclairage précis sur l’articulation entre ces deux dispositifs et leur impact réel sur la sécurité publique. D’autres facteurs, tels que le niveau de pauvreté ou le caractère commercial des espaces seront également observés afin de mieux comprendre l'efficacité des levier pour améliorer la sécurité dans les zones urbaines.
 
-
 ## Objectif du projet
 
 L'objectif de ce projet est d'analyser différents facteurs pouvant influencer le taux de criminalité dans les différents arrondissements de la ville de Paris.
+
+
+## Dépendance entre les notebooks 
+Ce projet contient plusieurs notebook pour traiter les différentes bases nécessaires ainsi qu'un notebook principal qui effectue une jointure entre les données principales issues de chaque base et contient le modèle final.
+
+1. **BaseDélinquance.ipynb** :  
+
+   Ce notebook étudie la base décrivant les statistiques de la délinquance à Paris et permet de préparer les données concernant le taux de criminalité dans chaque arrondissement.
+   
+2. **Basevideprotection.ipynb** :
+
+   Ce notebook réalise une étude statistique et temporelle sur le système de vidéo surveillance à Paris et permet de rassembler des informations sur le nombre de caméras de surveillance par arrondissement pour le modèle final.
+   
+3. **BaseEclairage_v2.ipynb** : 
+
+   Ce notebook traite des données sur l'éclairage dans la ville de Paris et calcule la densité lumineuse dans les arrondissements afin d'utiliser cette donnée dans le modèle final.
+  
+4. **BasePauverete.ipynb** :
+
+   Ce notebook contient le traitement effectué sur  3 bases, une contenant le taux de pauvereté, une le nombre des logements sociaux et la 3ème le nombre de commerces dans les arrondissements parisiens afin de rassembles plusieurs variables socio-économiques utiles dans notre modèle final.
+  
+5. **BaseEclairageLyon.ipynb** :
+ 
+   Ce notebook traite des données sur l'éclairage dans la ville de Lyon. Le but étant d'obtenir plus de points pour notre modèle final de régression en ajoutant la ville de Lyon dans notre étude. Cependant, nous n'avons pas trouvé l'ensemble des variables que nous avons obtenu pour la ville de Paris. Ce qui ne nous a pas permis d'ajouter la ville de Lyon à la base finale. Néanmoins, les résultats obtenus restent intéressants.
+  
+6. **Main.ipynb** :
+
+  
+   Ce notebook rassemble les variables obtenues dans les différents notebooks en une seule base finale sur laquelle nous appliquons un modèle de régression ainsi qu'une Analyse en Composantes Principales afin de déterminer les variables qui influent sur le taux de criminalité dans la ville de Paris.
+
+
 
 ## Ressources de données
 
